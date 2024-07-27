@@ -1,4 +1,4 @@
-// File: /Users/macbookpro/Desktop/FORMATION-GOMYCODE-2024/Point_de_controle_Next_JS/app/page.tsx
+// File: C:\Users\edane\Desktop\Point_de_controle_Next_JS-main\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

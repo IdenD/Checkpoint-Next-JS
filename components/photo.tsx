@@ -23,7 +23,7 @@ const Photo = () => {
           className='absolute z-40'
         >
           <img
-            src='https://img.freepik.com/psd-gratuit/illustration-3d-avatar-profil-humain_23-2150671142.jpg?t=st=1721747325~exp=1721750925~hmac=27a520d25f7f0bd0ad26d296443cd593177aef072cdacd2c7c4b71ec5bfb6a55&w=1060'
+            src='https://img.freepik.com/psd-gratuit/illustration-3d-personne-debardeur_23-2149436202.jpg?t=st=1722120246~exp=1722123846~hmac=942e60b31314fe2f97266c35b0eda5538c17979593be246ca3038706070d097e&w=740'
             height={580}
             width={580}
             alt='profile'

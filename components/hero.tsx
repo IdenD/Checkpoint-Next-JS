@@ -13,8 +13,7 @@ const Hero = () => {
           <div className="text-center xl:text-left">
             <span>Hello i&apos;m</span>
             <h1 className="text-[40px] font-bold capitalize leading-[3rem]">
-              Emmanuel Edan <br />
-              <span className="under-line">{`N'TAKPE`}</span>
+              Emmanuel Edan<br />
             </h1>
             <div className="py-8">
               <p>
